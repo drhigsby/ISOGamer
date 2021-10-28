@@ -28,3 +28,7 @@ Required Hardware for stacked case design:
 -keycaps
 
 -2x3u stabilizers (for 2x3u bar option) OR 1x6.25u stabilizer (for 6.25u bar option)
+
+
+
+KLE: http://www.keyboard-layout-editor.com/#/gists/59bec7c24a2eacc7034534ae54d9d0a9
